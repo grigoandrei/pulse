@@ -1,1 +1,23 @@
-*.egg-info
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Test / tooling
+.pytest_cache/
+.ruff_cache/
+
+# Packaging
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
