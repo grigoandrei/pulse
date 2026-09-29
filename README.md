@@ -1,3 +1,2 @@
-# pulse
-# pulse
-# pulse
+# Pulse - a load testing platform
+
